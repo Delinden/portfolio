@@ -84,21 +84,6 @@ const Subtitle = styled.div`
   }
 `;
 
-const Text = styled.div`
-  font-size: 26px;
-  font-style: italic;
-  margin-top: 16px;
-  color: #C4C4CC;
-
-  @media only screen and (max-width: 992px) {
-    font-size: 24px;
-  }
-
-  @media only screen and (max-width: 768px) {
-    font-size: 20px;
-  }
-`;
-
 const ContactTitle = styled.div`
   font-size: 35px;
   font-family: "NeueMachina-Regular", serif;
@@ -180,7 +165,6 @@ const Home = () => {
                     <TextBlock>
                         <Title>Илья Тарасов</Title>
                         <Subtitle>Графический дизайнер</Subtitle>
-                        <Text>"Дизайн это не только про красоту, но и про отражение интересов потребителя"</Text>
                     </TextBlock>
                     <ContactTitle>
                         <ContactTitle>Контакты</ContactTitle>
