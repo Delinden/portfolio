@@ -159,7 +159,7 @@ const Contacts = () => {
                             из социальных сетей, либо на почту.
                         </div>
                         <div>
-                            If you have any questions, please fell free to drop me a line.
+                            If you have any questions, please feel free to drop me a line.
                         </div>
                         <Button>
                             <a href="tel:+79219966685">Позвонить мне</a>
